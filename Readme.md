@@ -1,5 +1,5 @@
 # 🚀 AutoCommit-CLI: AI-Powered Git Commit Messages
-# Testing AutoCommit CLI i🚀
+# Testing AutoCommit CLI🚀
 
 AutoCommit-CLI is a powerful command-line tool that automates the process of writing meaningful Git commit messages using **Google Gemini AI**. No more struggling to come up with good commit messages—just let AI do it for you! 🎯
 
