@@ -32,7 +32,8 @@ GEMINI_API_KEY="your_api_key_here"
 
 ### **1️⃣ Analyze Changes & Get a Suggested Commit Message**
 ```bash
-autocommit --analyze
+python -m autocommit.cli --commit
+
 ```
 📌 **Example Output:**
 ```
@@ -42,7 +43,7 @@ fix: resolved authentication issue in login flow
 
 ### **2️⃣ Commit with AI-Generated Message**
 ```bash
-autocommit --commit
+python -m autocommit.cli --analyze
 ```
 📌 **Example Output:**
 ```
